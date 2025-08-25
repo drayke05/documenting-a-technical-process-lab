@@ -41,7 +41,7 @@ If not, squeeze a **tiny dot** (like a pea) of thermal paste right in the center
 Place the cooler over the CPU and screw or clip it into place (depends on the type of cooler you have).
 Then, connect the cooler’s fan cable to the motherboard header labeled **CPU_FAN**.
 
-## 🧩 Common Mistakes to Avoid
+## Common Mistakes to Avoid
 
 - **Wrong orientation:** Make sure the CPU triangle matches the socket triangle.
 - **Too much thermal paste:** A little goes a long way.
